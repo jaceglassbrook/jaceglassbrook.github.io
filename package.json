@@ -1,23 +1,23 @@
 {
-  "name": "jasonglassbrook.dev",
+  "name": "jaceglassbrook.dev",
   "version": "0.1.0",
   "description": "My amazing portfolio website.",
   "keywords": [
-    "jasonglassbrook",
-    "jason-glassbrook",
+    "jaceglassbrook",
+    "jace-glassbrook",
     "portfolio",
     "website"
   ],
-  "author": "Jason Glassbrook",
+  "author": "Jace Glassbrook",
   "license": "MPL-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasonglassbrook/jasonglassbrook.github.io.git"
+    "url": "git+https://github.com/jaceglassbrook/jaceglassbrook.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/jasonglassbrook/jasonglassbrook.github.io/issues"
+    "url": "https://github.com/jaceglassbrook/jaceglassbrook.github.io/issues"
   },
-  "homepage": "https://github.com/jasonglassbrook/jasonglassbrook.github.io#readme",
+  "homepage": "https://github.com/jaceglassbrook/jaceglassbrook.github.io#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
